@@ -1,0 +1,13 @@
+c:\users\msurekci\documents\visual studio 2013\Projects\ConsoleTwitter\AcceptanceTests\bin\Debug\AcceptanceTests.dll.config
+c:\users\msurekci\documents\visual studio 2013\Projects\ConsoleTwitter\AcceptanceTests\bin\Debug\AcceptanceTests.dll
+c:\users\msurekci\documents\visual studio 2013\Projects\ConsoleTwitter\AcceptanceTests\bin\Debug\AcceptanceTests.pdb
+c:\users\msurekci\documents\visual studio 2013\Projects\ConsoleTwitter\AcceptanceTests\bin\Debug\nunit.framework.dll
+c:\users\msurekci\documents\visual studio 2013\Projects\ConsoleTwitter\AcceptanceTests\bin\Debug\TechTalk.SpecFlow.dll
+c:\users\msurekci\documents\visual studio 2013\Projects\ConsoleTwitter\AcceptanceTests\bin\Debug\nunit.framework.xml
+c:\users\msurekci\documents\visual studio 2013\Projects\ConsoleTwitter\AcceptanceTests\obj\Debug\AcceptanceTests.dll
+c:\users\msurekci\documents\visual studio 2013\Projects\ConsoleTwitter\AcceptanceTests\obj\Debug\AcceptanceTests.pdb
+c:\users\msurekci\documents\visual studio 2013\Projects\ConsoleTwitter\AcceptanceTests\obj\Debug\AcceptanceTests.csprojResolveAssemblyReference.cache
+C:\Users\msurekci\documents\visual studio 2013\Projects\ConsoleTwitter\AcceptanceTests\bin\Debug\ConsoleTwitter.exe
+C:\Users\msurekci\documents\visual studio 2013\Projects\ConsoleTwitter\AcceptanceTests\bin\Debug\ConsoleTwitter.pdb
+C:\Users\msurekci\Documents\Visual Studio 2013\Projects\ConsoleTwitter\AcceptanceTests\bin\Debug\Ninject.dll
+C:\Users\msurekci\Documents\Visual Studio 2013\Projects\ConsoleTwitter\AcceptanceTests\bin\Debug\Ninject.xml

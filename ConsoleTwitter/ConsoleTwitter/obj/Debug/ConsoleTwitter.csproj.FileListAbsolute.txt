@@ -1,0 +1,7 @@
+c:\users\msurekci\documents\visual studio 2013\Projects\ConsoleTwitter\ConsoleTwitter\bin\Debug\ConsoleTwitter.exe.config
+c:\users\msurekci\documents\visual studio 2013\Projects\ConsoleTwitter\ConsoleTwitter\bin\Debug\ConsoleTwitter.exe
+c:\users\msurekci\documents\visual studio 2013\Projects\ConsoleTwitter\ConsoleTwitter\bin\Debug\ConsoleTwitter.pdb
+c:\users\msurekci\documents\visual studio 2013\Projects\ConsoleTwitter\ConsoleTwitter\obj\Debug\ConsoleTwitter.exe
+c:\users\msurekci\documents\visual studio 2013\Projects\ConsoleTwitter\ConsoleTwitter\obj\Debug\ConsoleTwitter.pdb
+C:\Users\msurekci\Documents\Visual Studio 2013\Projects\ConsoleTwitter\ConsoleTwitter\bin\Debug\Ninject.dll
+C:\Users\msurekci\Documents\Visual Studio 2013\Projects\ConsoleTwitter\ConsoleTwitter\bin\Debug\Ninject.xml

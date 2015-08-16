@@ -1,0 +1,13 @@
+c:\users\msurekci\documents\visual studio 2013\Projects\ConsoleTwitter\UnitTests\bin\Debug\xunit.execution.desktop.dll
+c:\users\msurekci\documents\visual studio 2013\Projects\ConsoleTwitter\UnitTests\bin\Debug\UnitTests.dll
+c:\users\msurekci\documents\visual studio 2013\Projects\ConsoleTwitter\UnitTests\bin\Debug\UnitTests.pdb
+c:\users\msurekci\documents\visual studio 2013\Projects\ConsoleTwitter\UnitTests\bin\Debug\xunit.abstractions.dll
+c:\users\msurekci\documents\visual studio 2013\Projects\ConsoleTwitter\UnitTests\bin\Debug\xunit.assert.dll
+c:\users\msurekci\documents\visual studio 2013\Projects\ConsoleTwitter\UnitTests\bin\Debug\xunit.core.dll
+c:\users\msurekci\documents\visual studio 2013\Projects\ConsoleTwitter\UnitTests\bin\Debug\xunit.abstractions.xml
+c:\users\msurekci\documents\visual studio 2013\Projects\ConsoleTwitter\UnitTests\bin\Debug\xunit.assert.pdb
+c:\users\msurekci\documents\visual studio 2013\Projects\ConsoleTwitter\UnitTests\bin\Debug\xunit.assert.xml
+c:\users\msurekci\documents\visual studio 2013\Projects\ConsoleTwitter\UnitTests\bin\Debug\xunit.core.pdb
+c:\users\msurekci\documents\visual studio 2013\Projects\ConsoleTwitter\UnitTests\bin\Debug\xunit.core.xml
+c:\users\msurekci\documents\visual studio 2013\Projects\ConsoleTwitter\UnitTests\obj\Debug\UnitTests.dll
+c:\users\msurekci\documents\visual studio 2013\Projects\ConsoleTwitter\UnitTests\obj\Debug\UnitTests.pdb
