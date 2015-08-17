@@ -1,8 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Security.Cryptography.X509Certificates;
 using ConsoleTwitter;
-using ConsoleTwitter.Actions;
 using ConsoleTwitter.Entities;
 using ConsoleTwitter.Interfaces;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
@@ -44,12 +42,8 @@ namespace UnitTest
         [TestMethod]
         public void Must_be_able_to_see_own_messages()
         {
-            var test = new List<User>()
-                       {
-                           new User()
-                           {
-                               Name = "Mahmut",
-                               _messages = new List<Message>()
+
+            reading.GetMessages("Mahmut").Returns(new List<Message>()
                                            {
                                                new Message()
                                                {
@@ -60,11 +54,7 @@ namespace UnitTest
                                                {
                                                    UsersMessage = "omg work! ... please"
                                                }
-                                           }
-                           }
-                       };
-            userList = new UserList();
-            userList.ListOfUsers = test;
+                                           });
 
             _sut = new CommandHandler(userList, publish, reading, follow, wall);
 
@@ -95,37 +85,14 @@ namespace UnitTest
 
         [TestMethod]
         public void Must_show_all_messages()
-        {
-            var test = new List<User>()
-                       {
-                           new User()
-                           {
-                               Name = "Alice",
-                               _messages = new List<Message>()
+        {            
+            wall.DisplayAllMessages("Alice").Returns(new List<Message>()
                                            {
                                                new Message()
                                                {
                                                    UsersMessage = "test"
                                                }
-                                           },
-                               _peopleFollowing = new List<User>()
-                                                  {
-                                                      new User()
-                                                      {
-                                                          Name = "Mahmut",
-                                                          _messages = new List<Message>()
-                                                                      {
-                                                                          new Message()
-                                                                          {
-                                                                              UsersMessage = "test"
-                                                                          }
-                                                                      }
-                                                      }
-                                                  }
-                           }
-                       };
-            userList = new UserList();
-            userList.ListOfUsers = test;
+                                           });
 
             _sut = new CommandHandler(userList, publish, reading, follow, wall);
 

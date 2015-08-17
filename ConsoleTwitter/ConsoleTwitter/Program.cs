@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using ConsoleTwitter.Actions;
 using ConsoleTwitter.Interfaces;
 
@@ -21,14 +17,13 @@ namespace ConsoleTwitter
             Console.WriteLine(">");
             Console.Write("Enter username: ");
             var userName = Console.ReadLine();
+            userList.AddUser(userName);
 
             while (Console.ReadKey(true).Key != ConsoleKey.Escape)
             {                
                 Console.WriteLine("Enter command: ");
                 Console.Write(userName + " ");
-                var command = Console.ReadLine();
-
-                userList.AddUser(userName);
+                var command = Console.ReadLine();                
 
                 var commandHandler = new CommandHandler(userList, publish, reading, follow, wall);
 
