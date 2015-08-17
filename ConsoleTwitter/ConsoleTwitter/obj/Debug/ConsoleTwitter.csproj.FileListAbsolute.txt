@@ -5,3 +5,11 @@ c:\users\msurekci\documents\visual studio 2013\Projects\ConsoleTwitter\ConsoleTw
 c:\users\msurekci\documents\visual studio 2013\Projects\ConsoleTwitter\ConsoleTwitter\obj\Debug\ConsoleTwitter.pdb
 C:\Users\msurekci\Documents\Visual Studio 2013\Projects\ConsoleTwitter\ConsoleTwitter\bin\Debug\Ninject.dll
 C:\Users\msurekci\Documents\Visual Studio 2013\Projects\ConsoleTwitter\ConsoleTwitter\bin\Debug\Ninject.xml
+C:\Git\console-twitter\ConsoleTwitter\ConsoleTwitter\bin\Debug\ConsoleTwitter.exe.config
+C:\Git\console-twitter\ConsoleTwitter\ConsoleTwitter\obj\Debug\ConsoleTwitter.exe
+C:\Git\console-twitter\ConsoleTwitter\ConsoleTwitter\obj\Debug\ConsoleTwitter.pdb
+C:\Git\console-twitter\ConsoleTwitter\ConsoleTwitter\bin\Debug\ConsoleTwitter.exe
+C:\Git\console-twitter\ConsoleTwitter\ConsoleTwitter\bin\Debug\ConsoleTwitter.pdb
+C:\Git\console-twitter\ConsoleTwitter\ConsoleTwitter\bin\Debug\Ninject.dll
+C:\Git\console-twitter\ConsoleTwitter\ConsoleTwitter\bin\Debug\Ninject.xml
+C:\Git\console-twitter\ConsoleTwitter\ConsoleTwitter\obj\Debug\ConsoleTwitter.csprojResolveAssemblyReference.cache

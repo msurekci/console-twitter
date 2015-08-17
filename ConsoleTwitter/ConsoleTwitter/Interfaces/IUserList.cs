@@ -1,5 +1,5 @@
 using System.Collections.Generic;
-using ConsoleTwitter.Classes;
+using ConsoleTwitter.Entities;
 
 namespace ConsoleTwitter.Interfaces
 {

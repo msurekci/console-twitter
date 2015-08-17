@@ -1,5 +1,5 @@
 ﻿using System;
-using ConsoleTwitter.Classes;
+using ConsoleTwitter.Entities;
 using ConsoleTwitter.Interfaces;
 
 namespace ConsoleTwitter.Actions

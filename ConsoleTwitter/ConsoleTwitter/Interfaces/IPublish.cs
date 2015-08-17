@@ -1,4 +1,4 @@
-﻿using ConsoleTwitter.Classes;
+﻿using ConsoleTwitter.Entities;
 
 namespace ConsoleTwitter.Interfaces
 {

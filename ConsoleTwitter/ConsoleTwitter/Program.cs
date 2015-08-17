@@ -4,7 +4,6 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using ConsoleTwitter.Actions;
-using ConsoleTwitter.Classes;
 using ConsoleTwitter.Interfaces;
 
 namespace ConsoleTwitter
@@ -26,7 +25,7 @@ namespace ConsoleTwitter
             while (Console.ReadKey(true).Key != ConsoleKey.Escape)
             {                
                 Console.WriteLine("Enter command: ");
-                Console.Write("Alice ");
+                Console.Write(userName + " ");
                 var command = Console.ReadLine();
 
                 userList.AddUser(userName);

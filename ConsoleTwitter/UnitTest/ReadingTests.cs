@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using ConsoleTwitter;
 using ConsoleTwitter.Actions;
-using ConsoleTwitter.Classes;
+using ConsoleTwitter.Entities;
 using ConsoleTwitter.Interfaces;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 using NSubstitute;

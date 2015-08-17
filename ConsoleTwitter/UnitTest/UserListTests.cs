@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using ConsoleTwitter;
-using ConsoleTwitter.Classes;
+using ConsoleTwitter.Entities;
 using ConsoleTwitter.Interfaces;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
 

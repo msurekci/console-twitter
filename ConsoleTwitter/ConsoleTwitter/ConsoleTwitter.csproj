@@ -48,8 +48,8 @@
     <Compile Include="Actions\Publish.cs" />
     <Compile Include="Actions\Reading.cs" />
     <Compile Include="Actions\Wall.cs" />
-    <Compile Include="Classes\Message.cs" />
-    <Compile Include="Classes\User.cs" />
+    <Compile Include="Entities\Message.cs" />
+    <Compile Include="Entities\User.cs" />
     <Compile Include="CommandHandler.cs" />
     <Compile Include="Interfaces\IFollow.cs" />
     <Compile Include="Interfaces\IPublish.cs" />
