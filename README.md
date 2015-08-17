@@ -12,3 +12,5 @@ Commands prefix your commands with:
 
 Currently you can only follow Mahmut. After you escape the session is closed and you start from the beginning.
 
+If you have any suggestions on improving the coding structure I would love to know one way or another (create issue or you can fork and make changes)
+
