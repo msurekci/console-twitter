@@ -15,7 +15,6 @@ namespace UnitTests
         [TestMethod]
         public void Must_be_able_to_publish_a_message()
         {
-            // var fakeUserList = FakeData();
             _userList = new UserList();
             _userList.AddUser("Alice");
             _sut = new Publish(_userList);
