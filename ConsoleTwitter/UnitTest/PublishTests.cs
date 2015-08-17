@@ -12,22 +12,6 @@ namespace UnitTests
         IPublish _sut;
         IUserList _userList;
 
-        // public IUserList FakeData()
-        // {
-        // var userList = new List<User>
-        // {
-        // new User()
-        // {
-        // Name = "Alice",
-        // _messages = new List<Message>()
-        // }
-        // };
-
-        // var context = Substitute.For<IUserList>();
-        // context.ListOfUsers.Returns(userList);
-
-        // return context;
-        // }
         [TestMethod]
         public void Must_be_able_to_publish_a_message()
         {
