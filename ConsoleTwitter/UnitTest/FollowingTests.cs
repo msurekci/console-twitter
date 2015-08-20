@@ -5,6 +5,7 @@ using ConsoleTwitter.Actions;
 using ConsoleTwitter.Entities;
 using ConsoleTwitter.Interfaces;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
+using NSubstitute;
 
 namespace UnitTest
 {

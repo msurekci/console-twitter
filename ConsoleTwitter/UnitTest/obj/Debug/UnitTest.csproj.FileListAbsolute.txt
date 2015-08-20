@@ -10,3 +10,15 @@ C:\Users\msurekci\Documents\Visual Studio 2013\Projects\ConsoleTwitter\UnitTest\
 C:\Users\msurekci\Documents\Visual Studio 2013\Projects\ConsoleTwitter\UnitTest\bin\Debug\Ninject.dll
 C:\Users\msurekci\Documents\Visual Studio 2013\Projects\ConsoleTwitter\UnitTest\bin\Debug\NSubstitute.xml
 C:\Users\msurekci\Documents\Visual Studio 2013\Projects\ConsoleTwitter\UnitTest\bin\Debug\Ninject.xml
+C:\Git\console-twitter\ConsoleTwitter\UnitTest\bin\Debug\UnitTest.dll
+C:\Git\console-twitter\ConsoleTwitter\UnitTest\bin\Debug\UnitTest.pdb
+C:\Git\console-twitter\ConsoleTwitter\UnitTest\bin\Debug\ConsoleTwitter.exe
+C:\Git\console-twitter\ConsoleTwitter\UnitTest\bin\Debug\NSubstitute.dll
+C:\Git\console-twitter\ConsoleTwitter\UnitTest\bin\Debug\NSubstituteAutoMocker.dll
+C:\Git\console-twitter\ConsoleTwitter\UnitTest\bin\Debug\Ninject.dll
+C:\Git\console-twitter\ConsoleTwitter\UnitTest\bin\Debug\ConsoleTwitter.pdb
+C:\Git\console-twitter\ConsoleTwitter\UnitTest\bin\Debug\NSubstitute.xml
+C:\Git\console-twitter\ConsoleTwitter\UnitTest\bin\Debug\Ninject.xml
+C:\Git\console-twitter\ConsoleTwitter\UnitTest\obj\Debug\UnitTest.csprojResolveAssemblyReference.cache
+C:\Git\console-twitter\ConsoleTwitter\UnitTest\obj\Debug\UnitTest.dll
+C:\Git\console-twitter\ConsoleTwitter\UnitTest\obj\Debug\UnitTest.pdb

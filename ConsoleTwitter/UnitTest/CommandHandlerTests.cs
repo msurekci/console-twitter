@@ -12,7 +12,7 @@ namespace UnitTest
     public class CommandHandlerTests
     {
         CommandHandler _sut;
-        IUserList userList;
+        IUserList userList = Substitute.For<IUserList>();
         IPublish publish = Substitute.For<IPublish>();
         IReading reading = Substitute.For<IReading>();
         IFollow follow = Substitute.For<IFollow>();
@@ -21,16 +21,6 @@ namespace UnitTest
         [TestMethod]
         public void Publish_message_should_be_called()
         {
-            var test = new List<User>()
-                       {
-                           new User()
-                           {
-                               Name = "Alice"                               
-                           }
-                       };
-            userList = new UserList();
-            userList.ListOfUsers = test;
-
             _sut = new CommandHandler(userList, publish, reading, follow, wall);
 
             _sut.SelectAction("-> message", "Alice");
@@ -66,16 +56,6 @@ namespace UnitTest
         [TestMethod]
         public void Must_follow_a_user()
         {
-            var test = new List<User>()
-                       {
-                           new User()
-                           {
-                               Name = "Alice"                               
-                           }
-                       };
-            userList = new UserList();
-            userList.ListOfUsers = test;
-
             _sut = new CommandHandler(userList, publish, reading, follow, wall);
 
             _sut.SelectAction("follow Mahmut", "Alice");
